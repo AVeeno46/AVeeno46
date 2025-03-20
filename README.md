@@ -1,4 +1,4 @@
-# 👋 Hi, I'm AVeebi46!
+# 👋 Hi, I'm AVeeno46!
 ### 🚀 About Me
 - 🔭 I’m currently working on **[Project Name](https://github.com/yourproject)**
 - 🌱 I’m learning **React, TypeScript**
