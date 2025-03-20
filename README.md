@@ -17,3 +17,5 @@
 
 ---
 ⭐️ From [yourusername](https://github.com/yourusername)
+
+![GitHub followers](https://img.shields.io/github/followers/AVeeno46?style=social)
