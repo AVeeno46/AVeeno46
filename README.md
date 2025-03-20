@@ -19,3 +19,5 @@
 ⭐️ From [yourusername](https://github.com/yourusername)
 
 ![GitHub followers](https://img.shields.io/github/followers/AVeeno46?style=social)
+
+![GitHub stars](https://img.shields.io/github/stars/AVeeno46?style=social)
