@@ -10,8 +10,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVeeno46&show_icons=true&theme=radical)
 ### 📌 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 
@@ -19,7 +18,4 @@
 ⭐️ From [yourusername](https://github.com/yourusername)
 
 ![GitHub followers](https://img.shields.io/github/followers/AVeeno46?style=social)
-
 ![GitHub stars](https://img.shields.io/github/stars/AVeeno46?style=social)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVeeno46&show_icons=true&theme=radical)
