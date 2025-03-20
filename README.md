@@ -21,3 +21,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/AVeeno46?style=social)
 
 ![GitHub stars](https://img.shields.io/github/stars/AVeeno46?style=social)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVeeno46&show_icons=true&theme=radical)
